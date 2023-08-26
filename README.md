@@ -24,8 +24,8 @@
   <i>Please consider giving me a tip. :)</i>
   <br>
   <sup>
-    <a href="https://cafecito.app/axenide">☕ Cafecito</a> |
-    <a href="https://ko-fi.com/axenide">❤️ Ko-Fi</a> |
+    <a href="https://cafecito.app/Axenide">☕ Cafecito</a> |
+    <a href="https://ko-fi.com/Axenide">❤️ Ko-Fi</a> |
     <a href="https://paypal.me/Axenide">💸 PayPal</a>
     <br>
     <b>💵 USDT:</b> <i>TDub4eGEbXMqv4CFo65oNTaBYMJpbJyrtQ</i> (TRC20)
