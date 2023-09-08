@@ -19,6 +19,23 @@
   </p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
 
+```hs
+
+           .             ​ axenide@world 
+          .c.           ┌───────────────────────────────┐ 
+         .ccc.           ​ OS : Adriano Tisera 
+        .lllll.          ​ Kernel : NERD-DEV 3.14 
+       ..;'olll.         ​ WM : Hyprland 
+      .dolllcccl.        ​ Shell : fish
+     .lcc'   'ccc.       ​ Uptime : 22 years
+    .ccc'     'cc:.      ​ CPU : NeuraCore AX-1
+   .cccc'     'c:;..    └───────────────────────────────┘ 
+  ."'             '".     A   X   E   N   I   D   E   火 
+
+arch in ~ 
+  λ echo "Stay Determined!"
+```
+
 <p align="center">
 <samp>
   <i>Please consider giving me a tip. :)</i>
