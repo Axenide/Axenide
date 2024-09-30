@@ -19,7 +19,7 @@
   </p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
 
-```hs
+```
 
            .             ​ axenide@world 
           .c.           ┌───────────────────────────────┐ 
@@ -27,7 +27,7 @@
         .lllll.          ​ Kernel : NERD-DEV 3.14 
        ..;'olll.         ​ WM : Hyprland 
       .dolllcccl.        ​ Shell : fish
-     .lcc'   'ccc.       ​ Uptime : 22 years
+     .lcc'   'ccc.       ​ Uptime : 23 years
     .ccc'     'cc:.      ​ CPU : NeuraCore AX-1
    .cccc'     'c:;..    └───────────────────────────────┘ 
   ."'             '".     A   X   E   N   I   D   E   火 
@@ -38,20 +38,13 @@ arch in ~
 
 <p align="center">
 <samp>
-  <i>Please consider giving me a tip. :)</i>
-  <br>
   <sup>
     <b>
+    <i>Please consider giving me a tip. :)</i>
+    <br>
     <a href="https://cafecito.app/axenide">☕ Cafecito</a> |
     <a href="https://ko-fi.com/axenide">❤️ Ko-Fi</a> |
     <a href="https://paypal.me/Axenide">💸 PayPal</a>
-    </b>
-    <br>
-    <b>💵 USDT:</b> <i>TDub4eGEbXMqv4CFo65oNTaBYMJpbJyrtQ</i> (TRC20)
-    <br>
-    <b>💶 USDC:</b> <i>0x1959681e522dbaedd93f90b0ece0d627f96432ee</i> (ERC20)
-    <br>
-    <b>🪙 BTC:</b> <i>16BTDDEmE2D98YPePt6VAvsC4s9xrVLpk4</i>
   </sup>
 </samp>
 </p>
