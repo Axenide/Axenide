@@ -27,7 +27,7 @@
         .lllll.          ​ Kernel : NERD-DEV 3.14 
        ..;'olll.         ​ WM : Hyprland 
       .dolllcccl.        ​ Shell : fish
-     .lcc'   'ccc.       ​ Uptime : 23 years
+     .lcc'   'ccc.       ​ Uptime : 24 years
     .ccc'     'cc:.      ​ CPU : NeuraCore AX-1
    .cccc'     'c:;..    └───────────────────────────────┘ 
   ."'             '".     A   X   E   N   I   D   E   火 
